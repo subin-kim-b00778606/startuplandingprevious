@@ -1,0 +1,35 @@
+.banner { 
+    background-image: linear-gradient(-180deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.4) 50%), url("https://resources.fujifilm.co.kr/upload/img/goods/48186/20230306103043624.jpg");
+    background-size: cover;     
+    background-position: center;
+    color: floralwhite;
+    text-align: center;
+    padding: 150px 0px;
+}
+
+.banner-content {
+    padding: 16% 10%; /* Adjust as needed */
+}
+
+.banner h1 {
+    color: floralwhite;
+    font-size: 4vw; /* Adjust as needed */
+    text-align: center;
+    text-shadow: rgba(155,7,7,0.80) 0 0 2vw; /* Adjust as needed */
+}
+
+.banner h2 {
+    color: floralwhite;
+    font-size: 3vw; /* Adjust as needed */
+    font-weight: lighter;
+    opacity: 0.9;
+    text-align: center;
+    text-shadow: rgba(155,7,7,0.80) 0 0 1.5vw; /* Adjust as needed */
+}
+
+.byline-container {
+    text-align: right;
+    margin-top: 10px;
+}
+
+
